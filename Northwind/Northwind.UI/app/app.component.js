@@ -15,7 +15,7 @@ var http_1 = require("@angular/http");
 require("rxjs/Rx");
 var AppComponent = (function () {
     function AppComponent() {
-        this.welcomeMessage = "Welcome to your first component!";
+        this.welcomeMessage = "Welcome to your first component!!";
     }
     AppComponent = __decorate([
         core_1.Component({

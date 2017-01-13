@@ -16,5 +16,5 @@ import "rxjs/Rx";
 })
 
 export class AppComponent {
-    welcomeMessage: string = "Welcome to your first component!!";
+    welcomeMessage: string = "Welcome to your first component!";
 }
